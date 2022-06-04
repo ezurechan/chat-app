@@ -24,9 +24,10 @@
   align-items: center;
 }
 
-.side-bar-user{
+.side-bar-user a{
   font-size: 16px;
   color: #FAFAFA;
+  text-decoration: none;
 }
 
 .side-bar-button a{
