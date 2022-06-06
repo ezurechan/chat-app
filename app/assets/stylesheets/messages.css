@@ -45,6 +45,9 @@
   overflow: scroll;
 }
 
+.room{
+  padding: 20px;
+}
 .side-bar-room a{
   color: white;
   margin: 20px 0 40px;
@@ -116,6 +119,13 @@
 }
 
 /*フッター*/
+
+.form{
+  background-color: #dddddd;
+  height: 90px;
+  padding: 20px 20px;
+  display: flex;
+}
 .main-foot{
   background-color: #dddddd;
   height: 90px;
