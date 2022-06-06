@@ -45,9 +45,10 @@
   overflow: scroll;
 }
 
-.side-bar-room{
+.side-bar-room a{
   color: white;
   margin: 20px 0 40px;
+  text-decoration: none;
 }
 
 
