@@ -17,7 +17,7 @@ RSpec.describe Message, type: :model do
       end
       it 'imageが空でも保存できる' do
         @message.image = nil
-        expect(@message).to be valid
+        expect(@message).to be_valid
       end
     end
     context 'メッセージが投稿できない場合' do
